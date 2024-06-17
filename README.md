@@ -2,7 +2,6 @@
 ![Uploadi<?xml version="1.0"?>
 <svg width="1432" height="328" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Слой 1">
  <defs>
-  <style>.cls-1{fill:url(#Безымянный_градиент);}.cls-2{fill:#f7f7f7;}.cls-3{fill:url(#Безымянный_градиент_2);}</style>
  </defs>
  <g class="layer">
   <title>Layer 1</title>
