@@ -1,4 +1,5 @@
-![Logo](https://github.com/BonyNode/.github/assets/43602026/9673a0f6-3145-41f3-8874-af279b012e1f)
+![BonyNode](https://github.com/BonyNode/.github/assets/43602026/eb1ad666-3fa6-41a8-b47a-32949b363de5)
+
  About Us
 BonyNode is a professional POS validator team & interchain utility provider. We support 30+ projects in various ecosystems. Our team is creating guides and developing tools for community to make node operator life easier.
 
